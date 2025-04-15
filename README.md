@@ -39,12 +39,26 @@ Text summarization is a core task in Natural Language Processing (NLP) that aims
 - Human Evaluation (optional)
 
 ## 📈 Features
-✅ Abstractive and extractive summarization
-✅ HuggingFace Transformers integration
-✅ ROUGE/BLEU evaluation
-✅ Fine-tuning on custom data
-✅ Multilingual support (optional)
-✅ Visualization of summaries
+- ✅ Abstractive and extractive summarization
+- ✅ HuggingFace Transformers integration
+- ✅ ROUGE/BLEU evaluation
+- ✅ Fine-tuning on custom data
+- ✅ Multilingual support (optional)
+- ✅ Visualization of summaries
 
+
+## 🧪 Experiments
+- Compare model performance on standard datasets
+- Fine-tune LLMs on domain-specific or low-resource languages
+- Combine topic modeling with summarization
+- Experiment with sentence embeddings and clustering
+
+## 🧰 Tools & Libraries
+- Python
+- HuggingFace Transformers
+- PyTorch / TensorFlow
+- Scikit-learn
+- NLTK / SpaCy
+- ROUGE / BLEU / BERTScore
 
 
